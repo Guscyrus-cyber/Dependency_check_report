@@ -1,0 +1,16 @@
+[INFO] Analysis Started
+[INFO] Finished File Name Analyzer (0 seconds)
+[INFO] Finished Dependency Merging Analyzer (0 seconds)
+[INFO] Finished Hint Analyzer (0 seconds)
+[INFO] Finished Version Filter Analyzer (0 seconds)
+[INFO] Created CPE Index (6 seconds)
+[INFO] Finished CPE Analyzer (6 seconds)
+[INFO] Finished False Positive Analyzer (0 seconds)
+[INFO] Finished NVD CVE Analyzer (0 seconds)
+[INFO] Finished Sonatype OSS Index Analyzer (0 seconds)
+[INFO] Finished Vulnerability Suppression Analyzer (0 seconds)
+[INFO] Finished Known Exploited Vulnerability Analyzer (0 seconds)
+[INFO] Finished Dependency Bundling Analyzer (0 seconds)
+[INFO] Finished Unused Suppression Rule Analyzer (0 seconds)
+[INFO] Analysis Complete (7 seconds)
+[INFO] Writing report to: /home/user/./dependency-check-report.html
